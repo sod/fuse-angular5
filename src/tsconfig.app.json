@@ -8,6 +8,7 @@
   },
   "exclude": [
     "test.ts",
+    "main.aot.ts",
     "**/*.spec.ts"
   ]
 }

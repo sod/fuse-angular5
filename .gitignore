@@ -2,8 +2,10 @@
 
 # compiled output
 /dist
+/src/dist
 /tmp
 /out-tsc
+/.fusebox
 
 # dependencies
 /node_modules
